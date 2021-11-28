@@ -14,5 +14,5 @@
 Created By
 Amr Elmalky
 
-link : https://amrelmalky.github.io/Landing-Page-/
+website link : https://amrelmalky.github.io/My-Landing-Page/
 ![image](https://user-images.githubusercontent.com/69693889/134653421-ffe21e3a-bcdc-4a24-82ba-f7b9777d2e12.png)
